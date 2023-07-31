@@ -23,4 +23,8 @@
     <ProjectReference Include="..\APIProject.Core\APIProject.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>
