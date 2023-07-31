@@ -1,4 +1,7 @@
-﻿using System;
+﻿using APIProject.Core.Entities;
+using APIProject.Core.Repositories;
+using APIProject.Data.Context;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +9,10 @@ using System.Threading.Tasks;
 
 namespace APIProject.Data.Repositories
 {
-    internal class BookRepository
+    public class BookRepository : Repository<Book>, IBookRepository
     {
+        public BookRepository(APIProjectDbContext context) : base(context)
+        {
+        }
     }
 }
