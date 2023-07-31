@@ -17,8 +17,4 @@
     <ProjectReference Include="..\APIProject.Data\APIProject.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Implementations\" />
-  </ItemGroup>
-
 </Project>
