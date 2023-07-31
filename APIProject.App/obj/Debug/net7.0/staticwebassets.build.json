@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "4UgwOvXBwzbyo6Z8Nj4Jq2cPTZJ3fZOeHBwrqvqjfkE=",
+  "Hash": "06/53VzaJNF1uaH291+vGLNvuZ7BnV9vrX9m1g0VFhU=",
   "Source": "APIProject.App",
   "BasePath": "_content/APIProject.App",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APIProject.App\\wwwroot",
+      "Source": "APIProject.App",
+      "ContentRoot": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\",
+      "BasePath": "_content/APIProject.App",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

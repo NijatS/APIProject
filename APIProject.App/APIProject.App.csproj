@@ -21,11 +21,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\APIProject.Service\APIProject.Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\APIProject.Service\APIProject.Service.csproj" />
+    <Folder Include="wwwroot\assests\images\books\" />
   </ItemGroup>
 
 </Project>

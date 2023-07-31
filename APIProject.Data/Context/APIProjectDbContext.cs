@@ -1,4 +1,5 @@
 ﻿using APIProject.Core.Entities;
+using APIProject.Data.Configurations;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,13 @@ namespace APIProject.Data.Context
         public DbSet<Book> Books { get; set; }
         public APIProjectDbContext(DbContextOptions options) : base(options)
         {
+        }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+            modelBuilder.ApplyConfiguration(new BookConfiguration());
+
+            base.OnModelCreating(modelBuilder);
         }
     }
 }
