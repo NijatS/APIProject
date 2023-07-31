@@ -1,0 +1,17 @@
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\bin\Debug\net7.0\APIProject.Data.deps.json
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\bin\Debug\net7.0\APIProject.Data.runtimeconfig.json
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\bin\Debug\net7.0\APIProject.Data.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\bin\Debug\net7.0\APIProject.Data.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\bin\Debug\net7.0\APIProject.Core.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\bin\Debug\net7.0\APIProject.Core.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.csproj.CopyComplete
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\refint\APIProject.Data.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\APIProject.Data.genruntimeconfig.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Data\obj\Debug\net7.0\ref\APIProject.Data.dll

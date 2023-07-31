@@ -1,0 +1,17 @@
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\bin\Debug\net7.0\APIProject.Service.deps.json
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\bin\Debug\net7.0\APIProject.Service.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\bin\Debug\net7.0\APIProject.Service.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\bin\Debug\net7.0\APIProject.Core.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\bin\Debug\net7.0\APIProject.Data.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\bin\Debug\net7.0\APIProject.Data.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\bin\Debug\net7.0\APIProject.Core.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.csproj.CopyComplete
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\refint\APIProject.Service.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\APIProject.Service.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Service\obj\Debug\net7.0\ref\APIProject.Service.dll

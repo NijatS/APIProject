@@ -1,0 +1,12 @@
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\bin\Debug\net7.0\APIProject.Core.deps.json
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\bin\Debug\net7.0\APIProject.Core.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\bin\Debug\net7.0\APIProject.Core.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\APIProject.Core.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\APIProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\APIProject.Core.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\APIProject.Core.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\APIProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\APIProject.Core.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\refint\APIProject.Core.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\APIProject.Core.pdb
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.Core\obj\Debug\net7.0\ref\APIProject.Core.dll
