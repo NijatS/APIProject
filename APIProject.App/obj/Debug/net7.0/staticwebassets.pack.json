@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.APIProject.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.APIProject.App.props",
+      "PackagePath": "build\\APIProject.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.APIProject.App.props",
+      "PackagePath": "buildMultiTargeting\\APIProject.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.APIProject.App.props",
+      "PackagePath": "buildTransitive\\APIProject.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

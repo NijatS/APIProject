@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "06/53VzaJNF1uaH291+vGLNvuZ7BnV9vrX9m1g0VFhU=",
+  "Hash": "FnDG0UYTg22eah4B30JZ0Q6fZ72ZkNSXhoVPHk71o7U=",
   "Source": "APIProject.App",
   "BasePath": "_content/APIProject.App",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg",
+      "SourceId": "APIProject.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\",
+      "BasePath": "_content/APIProject.App",
+      "RelativePath": "assests/images/books/6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg"
+    }
+  ]
 }
