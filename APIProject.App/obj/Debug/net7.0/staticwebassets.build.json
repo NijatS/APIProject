@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Yk3I/kY3jZgjTmEJc7lRysY7z5Mwt8K7pX9w4ekZ8ow=",
+  "Hash": "s+CPDIFsL+FESdxylJtUfsjtQl/d4V2S03m3u2VlJKM=",
   "Source": "APIProject.App",
   "BasePath": "_content/APIProject.App",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\4921f6e2-8df8-4738-8615-ee5508a3f3ebimages (2).jpg",
+      "SourceId": "APIProject.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\",
+      "BasePath": "_content/APIProject.App",
+      "RelativePath": "assests/images/books/4921f6e2-8df8-4738-8615-ee5508a3f3ebimages (2).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assests\\images\\books\\4921f6e2-8df8-4738-8615-ee5508a3f3ebimages (2).jpg"
+    },
     {
       "Identity": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\54e47c1b-657c-4494-88a6-e0109cc0e060download.jpg",
       "SourceId": "APIProject.App",
@@ -49,6 +66,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\76459c00-8607-4a57-8f88-50f81f670602download.jpg",
+      "SourceId": "APIProject.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\",
+      "BasePath": "_content/APIProject.App",
+      "RelativePath": "assests/images/books/76459c00-8607-4a57-8f88-50f81f670602download.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assests\\images\\books\\76459c00-8607-4a57-8f88-50f81f670602download.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\822e78d0-0ba4-4418-b23e-872616cfb7e9images (1).jpg",
+      "SourceId": "APIProject.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\",
+      "BasePath": "_content/APIProject.App",
+      "RelativePath": "assests/images/books/822e78d0-0ba4-4418-b23e-872616cfb7e9images (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assests\\images\\books\\822e78d0-0ba4-4418-b23e-872616cfb7e9images (1).jpg"
     }
   ]
 }

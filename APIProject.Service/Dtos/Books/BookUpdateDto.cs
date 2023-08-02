@@ -12,7 +12,7 @@ namespace APIProject.Service.Dtos.Books
         public string Name { get; set; }
         public double Price { get; set; }
         public string Author { get; set; }
-        public IFormFile file { get; set; }
+        public IFormFile? file { get; set; }
         public int CategoryId { get; set; }
     }
 }
