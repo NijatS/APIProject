@@ -1,0 +1,38 @@
+﻿@model BookPostDto
+
+<div class="container">
+	<form method="post" enctype="multipart/form-data">
+	<div class="form-group">
+		    <label asp-for="Name" >Name:</label>
+			<input class="form-control" asp-for="Name" />
+			<span asp-validation-for="Name" class="text text-danger"></span>
+	</div>
+		<div class="form-group">
+			<label asp-for="Author">Author:</label>
+			<input class="form-control" asp-for="Author" />
+			<span asp-validation-for="Author" class="text text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Price">Price:</label>
+			<input class="form-control" asp-for="Price" />
+			<span asp-validation-for="Price" class="text text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="CategoryId">Category</label>
+			<select asp-for="CategoryId" class="form-select" aria-label="Default select example">
+				@foreach (var item in ViewBag.Categories)
+				{
+					<option value="@item.Id">@item.Name</option>
+				}
+			</select>
+			<span asp-validation-for="CategoryId" class="text text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="@Model.file">File:</label>
+			<input type="file" class="form-control" asp-for="@Model.file" />
+			<span asp-validation-for="file" class="text text-danger"></span>
+		</div>
+			@Html.AntiForgeryToken()
+	<button type="submit">Create</button>
+	</form>
+</div>

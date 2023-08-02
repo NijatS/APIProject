@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\54e47c1b-657c-4494-88a6-e0109cc0e060download.jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\54e47c1b-657c-4494-88a6-e0109cc0e060download.jpg"
+    },
+    {
       "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg",
       "PackagePath": "staticwebassets\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg"
     },
