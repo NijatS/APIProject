@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace APIProject.Service.Validations.Categories
 {
-    public class BookPostDtoValidation:AbstractValidator<BookPostDto>
+    public class BookPostDtoValidation : AbstractValidator<BookPostDto>
     {
         public BookPostDtoValidation()
         {
@@ -25,19 +25,19 @@ namespace APIProject.Service.Validations.Categories
                .NotNull().WithMessage("Author can not be null")
                .MinimumLength(3)
                .MaximumLength(30);
-            RuleFor(x => x.Price)
-               .NotEmpty()
-               .NotNull();
             RuleFor(x => x)
             .Custom((x, context) =>
             {
-                if (!Helper.isImage(x.file))
+                if (x.file != null)
                 {
-                    context.AddFailure("file", "The type of file must be image");
-                }
-                if (!Helper.isSizeOk(x.file, 2))
-                {
-                    context.AddFailure("file", "The size of image less than 2 mb");
+                    if (!Helper.isImage(x.file))
+                    {
+                        context.AddFailure("file", "The type of file must be image");
+                    }
+                    if (!Helper.isSizeOk(x.file, 2))
+                    {
+                        context.AddFailure("file", "The size of image less than 2 mb");
+                    }
                 }
             });
         }

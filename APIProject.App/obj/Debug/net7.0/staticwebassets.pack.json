@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\4921f6e2-8df8-4738-8615-ee5508a3f3ebimages (2).jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\4921f6e2-8df8-4738-8615-ee5508a3f3ebimages (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\54e47c1b-657c-4494-88a6-e0109cc0e060download.jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\54e47c1b-657c-4494-88a6-e0109cc0e060download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\6f1d60a4-0fd1-4d79-9c65-d61632bea8dddownload (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\76459c00-8607-4a57-8f88-50f81f670602download.jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\76459c00-8607-4a57-8f88-50f81f670602download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\822e78d0-0ba4-4418-b23e-872616cfb7e9images (1).jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\822e78d0-0ba4-4418-b23e-872616cfb7e9images (1).jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.APIProject.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.APIProject.App.props",
+      "PackagePath": "build\\APIProject.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.APIProject.App.props",
+      "PackagePath": "buildMultiTargeting\\APIProject.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.APIProject.App.props",
+      "PackagePath": "buildTransitive\\APIProject.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

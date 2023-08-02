@@ -40,7 +40,7 @@ namespace APIProject.Data.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 7, 31, 19, 24, 47, 661, DateTimeKind.Utc).AddTicks(4963));
+                        .HasDefaultValue(new DateTime(2023, 8, 1, 18, 51, 53, 343, DateTimeKind.Utc).AddTicks(3642));
 
                     b.Property<string>("Image")
                         .IsRequired()
@@ -86,7 +86,7 @@ namespace APIProject.Data.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 7, 31, 19, 24, 47, 661, DateTimeKind.Utc).AddTicks(3524));
+                        .HasDefaultValue(new DateTime(2023, 8, 1, 18, 51, 53, 343, DateTimeKind.Utc).AddTicks(2462));
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
