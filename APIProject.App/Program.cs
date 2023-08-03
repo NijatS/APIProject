@@ -7,6 +7,7 @@ using APIProject.Service.Services.Interfaces;
 using APIProject.Service.Validations.Categories;
 using AutoMapper;
 using FluentValidation.AspNetCore;
+using MicroElements.Swashbuckle.FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
@@ -38,6 +39,7 @@ builder.Services.AddCors(o => o.AddPolicy("P136", builder =>
 builder.Services.AddControllers().AddJsonOptions(x =>
                 x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 builder.Services.AddSwaggerGen();
+builder.Services.AddFluentValidationRulesToSwagger();
 
 var app = builder.Build();
 

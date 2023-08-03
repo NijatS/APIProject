@@ -259,5 +259,3 @@ C:\Users\Nijat\source\repos\APIProject.App\APIProject.MVC\obj\Debug\net7.0\refin
 C:\Users\Nijat\source\repos\APIProject.App\APIProject.MVC\obj\Debug\net7.0\APIProject.MVC.pdb
 C:\Users\Nijat\source\repos\APIProject.App\APIProject.MVC\obj\Debug\net7.0\APIProject.MVC.genruntimeconfig.cache
 C:\Users\Nijat\source\repos\APIProject.App\APIProject.MVC\obj\Debug\net7.0\ref\APIProject.MVC.dll
-C:\Users\Nijat\source\repos\APIProject.App\APIProject.MVC\bin\Debug\net7.0\System.Net.Http.Extensions.dll
-C:\Users\Nijat\source\repos\APIProject.App\APIProject.MVC\bin\Debug\net7.0\System.Net.Http.Primitives.dll

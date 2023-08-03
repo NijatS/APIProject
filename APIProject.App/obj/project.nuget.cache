@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7gE+AYrDep0UTxVIQdAAXig5HfQjWpUnlti7mBDjHACNEp7au97LSX41Il9i6WBSZZBg7QS4wOFnLYIPgsJIow==",
+  "dgSpecHash": "pyA1RVMVPm15SrQ8IMq7YLFWvxze7g3KfhswQ53Bei608t0tTuzyrl9ytb5GwzM6WvtoD/X4XBfiCeOBFcywRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\APIProject.App.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Nijat\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\Nijat\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\Nijat\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Nijat\\.nuget\\packages\\microelements.swashbuckle.fluentvalidation\\5.7.0\\microelements.swashbuckle.fluentvalidation.5.7.0.nupkg.sha512",
     "C:\\Users\\Nijat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\Nijat\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Nijat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

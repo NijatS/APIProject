@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\assests\\images\\books\\822e78d0-0ba4-4418-b23e-872616cfb7e9images (1).jpg"
     },
     {
+      "Id": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\fe183bb2-04a1-43b1-a9b6-4ed0ab483c7edownload.jpg",
+      "PackagePath": "staticwebassets\\assests\\images\\books\\fe183bb2-04a1-43b1-a9b6-4ed0ab483c7edownload.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.APIProject.App.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

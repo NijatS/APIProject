@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s+CPDIFsL+FESdxylJtUfsjtQl/d4V2S03m3u2VlJKM=",
+  "Hash": "eKRwAVIlrKYMOaVqiqP7gJqBNOakrilXB9Ic4O4WbCg=",
   "Source": "APIProject.App",
   "BasePath": "_content/APIProject.App",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assests\\images\\books\\822e78d0-0ba4-4418-b23e-872616cfb7e9images (1).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\assests\\images\\books\\fe183bb2-04a1-43b1-a9b6-4ed0ab483c7edownload.jpg",
+      "SourceId": "APIProject.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nijat\\source\\repos\\APIProject.App\\APIProject.App\\wwwroot\\",
+      "BasePath": "_content/APIProject.App",
+      "RelativePath": "assests/images/books/fe183bb2-04a1-43b1-a9b6-4ed0ab483c7edownload.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assests\\images\\books\\fe183bb2-04a1-43b1-a9b6-4ed0ab483c7edownload.jpg"
     }
   ]
 }

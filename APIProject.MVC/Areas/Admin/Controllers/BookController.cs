@@ -33,7 +33,7 @@ namespace APIProject.MVC.Areas.Admin.Controllers
                 {
                      var EmpResponse = Res.Content.ReadAsStringAsync().Result;
                      dynamic response = JsonConvert.DeserializeObject(EmpResponse);
-                    books = response.items.ToObject<List<Book>>();
+                     books = response.items.ToObject<List<Book>>();
                 }
                 return View(books);
             }
@@ -170,7 +170,7 @@ namespace APIProject.MVC.Areas.Admin.Controllers
 				fileContent.Headers.ContentType = MediaTypeHeaderValue.Parse(dto.file.ContentType);
 				multipartContent.Add(fileContent, "file", dto.file.FileName);
 				}
-				multipartContent.Add(new StringContent(JsonConvert.SerializeObject(dto.Name), Encoding.UTF32, "application/json"), "Name");
+				multipartContent.Add(new StringContent(JsonConvert.SerializeObject(dto.Name), Encoding.UTF8, "application/json"),"Name");
 				multipartContent.Add(new StringContent(JsonConvert.SerializeObject(dto.Author), Encoding.UTF8, "application/json"), "Author");
 				multipartContent.Add(new StringContent(JsonConvert.SerializeObject(dto.Price), Encoding.UTF8, "application/json"), "Price");
 				multipartContent.Add(new StringContent(JsonConvert.SerializeObject(dto.CategoryId), Encoding.UTF8, "application/json"), "CategoryId");

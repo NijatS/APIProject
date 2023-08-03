@@ -86,3 +86,4 @@ C:\Users\Nijat\source\repos\APIProject.App\APIProject.App\obj\Debug\net7.0\refin
 C:\Users\Nijat\source\repos\APIProject.App\APIProject.App\obj\Debug\net7.0\APIProject.App.pdb
 C:\Users\Nijat\source\repos\APIProject.App\APIProject.App\obj\Debug\net7.0\APIProject.App.genruntimeconfig.cache
 C:\Users\Nijat\source\repos\APIProject.App\APIProject.App\obj\Debug\net7.0\ref\APIProject.App.dll
+C:\Users\Nijat\source\repos\APIProject.App\APIProject.App\bin\Debug\net7.0\MicroElements.Swashbuckle.FluentValidation.dll
